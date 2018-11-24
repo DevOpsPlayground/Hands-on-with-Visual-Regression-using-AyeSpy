@@ -6,7 +6,7 @@
 
 # Scenario 2 - Running across various breakpoints
 
-It's rare that our site will only be accessed in one breakpoint. Lets increase our coverage and confidence in our application by covering multiple breakpoints.
+It's rare that our site will only be accessed in one breakpoint. Lets increase our coverage and our confidence in our application by covering multiple breakpoints.
 
     vi ayespy-config.json
 
@@ -40,3 +40,16 @@ and to run the report
     ayespy compare --config ayespy-config.json --browser firefox
 
 
+    info ayespy Logger Log level is info
+    info [configValidator] : Config validated ✅
+    info [comparer] : ✅ Passed: homepage-large
+    info [comparer] : ✅ Passed: homepage-small
+    info [Reporter] :
+    info [Reporter] :       AyeSpy
+    info [Reporter] : ---------------------
+    info [Reporter] :
+    info [Reporter] : Scenarios Passed: 2
+    info [Reporter] : Scenarios Failed: 0
+    info [Reporter] :
+    info [Reporter] : ---------------------
+    info [Reporter] :

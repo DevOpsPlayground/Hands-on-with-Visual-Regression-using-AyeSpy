@@ -62,7 +62,6 @@ in your browser navigate to
     <your-animal>.devopsplayground.com
 
 
-
 Looks like we have some dynamic content that might not always display. On a real site this could be something like an advert, video, carousel or anything else not static.
 
 
