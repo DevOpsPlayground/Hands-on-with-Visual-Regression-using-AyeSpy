@@ -38,19 +38,19 @@ Lets take a look
 Looks good! 
 Lets get some images 
 
-    ayespy snap --config ayespy-config.json --browser chrome 
+    ayespy snap --config ayespy-config.json --browser firefox 
 
 lets update the baseline
 
-    ayespy update-baseline --config ayespy-config.json --browser chrome
+    ayespy update-baseline --config ayespy-config.json --browser firefox
 
 and run another snap
 
-    ayespy snap --config ayespy-config.json --browser chrome
+    ayespy snap --config ayespy-config.json --browser firefox
 
 lets see if when we run the comparison if that passes?
 
-    ayespy compare --config ayespy-config.json --browser chrome
+    ayespy compare --config ayespy-config.json --browser firefox
 
 
 If you're lucky it might have passed, but if you're unlucky it may have failed :(
@@ -78,7 +78,7 @@ We should remove it by editing out config and making use of remove selectors
     "scenarios": [{
             "url": "http://cookingapp:3000",
             "label": "homepage",
-            "viewports": [{"height": 2400, "width": 1024, "label": "large"}],
+            "viewports": [{"height": 1000, "width": 1024, "label": "large"}],
             "removeSelectors": [".eww-a-bug"]
         }]
 
