@@ -4,6 +4,8 @@
 [Scenario 1](docs/scenario1.md) |
 [Scenario 2](docs/scenario2.md) |
 [Scenario 3](docs/scenario3.md) |
+[Scenario 4](docs/scenario4.md) |
+[Cheatsheet](docs/cheatsheet.md) |
 [CLI commands](docs/cli-commands.md) 
 
 ![](https://i.imgur.com/3jQXR48.png)
