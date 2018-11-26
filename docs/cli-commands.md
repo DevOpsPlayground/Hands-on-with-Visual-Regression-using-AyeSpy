@@ -2,8 +2,9 @@
 [Scenario 1](scenario1.md) |
 [Scenario 2](scenario2.md) |
 [Scenario 3](scenario3.md) |
+[Scenario 4](scenario4.md) |
+[Cheatsheet](cheatsheet.md) |
 [CLI commands](cli-commands.md) 
-
 
 ## Take the latest screenshots for comparison
 
