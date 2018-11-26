@@ -15,10 +15,10 @@ Take a look at the [Cheatsheet](cheatsheet.md) to see the full list of the ayesp
 
 The selectors that you will be interested in are all here
 
-  .the-hamburger-button 
-  .eww-a-bug 
-  .show-me-more 
-  .favorite-button-(number)
+    .the-hamburger-button 
+    .eww-a-bug 
+    .show-me-more 
+    .favorite-button-(number)
 
 
 Possible scenarios we could be interested in are 
