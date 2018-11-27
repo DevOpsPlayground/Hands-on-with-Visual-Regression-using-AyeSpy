@@ -9,19 +9,19 @@
 
 # Scenario 4 - Down to you!
 
-The last couple scenarios are down to you to figure out!
+The last scenario is down to you to figure out!
 
 Take a look at the [Cheatsheet](cheatsheet.md) to see the full list of the ayespy config.
+
+We want to crop to just the burger menu list.
+
+You will probably want to think about clicking on the burger menu first and maybe waiting for the menu to be displayed!
+
+Feel free to use the nice ECSD folk around the room if you get stuck!
 
 The selectors that you will be interested in are all here
 
     .the-hamburger-button 
     .eww-a-bug 
-    .show-me-more 
-    .favorite-button-(number)
-
-
-Possible scenarios we could be interested in are 
-- Viewing other recipes
-- Cropping to selector on the hamburger menu
+    #the-props-menu
 
