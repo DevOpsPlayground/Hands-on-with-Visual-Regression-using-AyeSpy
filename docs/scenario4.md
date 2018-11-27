@@ -27,6 +27,67 @@ The selectors that you will be interested in are all here
 
 
 
-If you're struggling with flake, it looks like when clicking on the burger menu sometimes profile is highlighted.
-Maybe we need to move the mouse away in our script file?
 
+If you need a hand scroll down to get the scenario robust!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spoilers alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you're struggling with flake, it looks like it might be down to two things
+
+- not waiting long enough to allow the menu to fully render
+
+    until the menu is fully rendered the is still some opacity which so menu gradient may not always match
+
+
+- when clicking on the burger menu sometimes profile menu is highlighted.
+Maybe we need to move the mouse away in our on before script file?
+try something like this to move the element away 
+
+    await browser.findElement(By.css('.show-me-more')).then(elem => 
+        browser.actions().move({origin: elem}).perform())
