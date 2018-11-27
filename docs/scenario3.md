@@ -64,7 +64,7 @@ lets check that our new scenario works by looking at the image
 
     info [configValidator] : Config validated ✅
     info [comparer] : ✅ Passed: recipe-large
-    info [comparer] : ✅ Failed: show-more-recipes-large
+    info [comparer] : ✅ Passed: show-more-recipes-large
     info [createDiffs] : Diff generated for show-more-recipes-large
     info [Reporter] :
     info [Reporter] :       AyeSpy
