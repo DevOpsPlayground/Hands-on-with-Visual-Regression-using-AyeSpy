@@ -25,3 +25,8 @@ The selectors that you will be interested in are all here
     .eww-a-bug 
     .MuiPaper-elevation8-023  (the menu list)
 
+
+
+If you're struggling with flake, it looks like when clicking on the burger menu sometimes profile is highlighted.
+Maybe we need to move the mouse away in our script file?
+
