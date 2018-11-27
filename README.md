@@ -14,7 +14,6 @@
 In this meetup we will explore what visual regression is and what problem it aims to solve.
 We will look at best practices and how to get your visual regression tests running as efficiently and as robust as possible.
 
-
 ---------------------------------
 
 Name: Matt Lowry

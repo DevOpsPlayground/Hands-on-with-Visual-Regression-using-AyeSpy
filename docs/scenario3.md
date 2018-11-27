@@ -24,7 +24,6 @@ lets create a new scenario with an onReady property and link it to our click scr
             "viewports": [
                 {"height": 1000, "width": 1024, "label": "large"}
             ],
-            "wait": 2000
             "removeSelectors": [".eww-a-bug"]
         },
         {
@@ -34,7 +33,6 @@ lets create a new scenario with an onReady property and link it to our click scr
             "viewports": [
                 {"height": 1000, "width": 1024, "label": "large"}
             ],
-            "wait": 2000
             "removeSelectors": [".eww-a-bug"]
         }]
 

@@ -23,5 +23,5 @@ The selectors that you will be interested in are all here
 
     .the-hamburger-button 
     .eww-a-bug 
-    #the-props-menu
+    .the-props-menu
 
