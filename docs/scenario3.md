@@ -10,13 +10,13 @@
 # Scenario 3 - Interacting with the page before screenshots
 
 Sometimes we might need to interact with the page before we take a screenshot. 
-For example on our demo site we might want to click the expand, or on another recipe.
+For example on our demo site we might want to click the expand recipe, or on another recipe.
 
 To do this we can export a function that has browser object passed in. 
 
 There is already a folder `scripts` that contains a function that will click on an element.
 
-lets create a new scenario with an onReady field and link it to our click script
+lets create a new scenario with an onReady property and link it to our click script
 
     "scenarios": [{
             "url": "http://cookingapp:3000",
@@ -39,7 +39,7 @@ lets create a new scenario with an onReady field and link it to our click script
         }]
 
 
-Now lets change our click script to click on the recipe show me more
+Now lets change our click script to click on the recipe show me more button
 
     vi scripts/click.js
 --------------
