@@ -1,4 +1,4 @@
-[Home](README.md) | 
+[Home](../README.md) | 
 [Scenario 1](scenario1.md) |
 [Scenario 2](scenario2.md) |
 [Scenario 3](scenario3.md) |
