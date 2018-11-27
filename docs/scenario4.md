@@ -22,6 +22,6 @@ The selectors that you will be interested in are all here
 
 
 Possible scenarios we could be interested in are 
-- Other recipe methods
-- crop to selector on the hamburger menu
+- Viewing other recipes
+- Cropping to selector on the hamburger menu
 
