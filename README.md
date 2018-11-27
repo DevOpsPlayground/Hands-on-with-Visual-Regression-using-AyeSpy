@@ -19,7 +19,7 @@ We will look at best practices and how to get your visual regression tests runni
 
 Name: Matt Lowry
 
-Role: Test Architect
+Role: Junior Test Architect
 
 Git Handle: [l0wry](https://github.com/l0wry)
 
