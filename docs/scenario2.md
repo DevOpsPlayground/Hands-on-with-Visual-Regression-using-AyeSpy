@@ -17,10 +17,9 @@ It's rare that our site will only be accessed in one breakpoint. Lets increase o
             "url": "http://cookingapp:3000",
             "label": "homepage",
             "viewports": [
-                {"height": 1000, "width": 1024, "label": "large"}
-                {"height": 1000, "width": 550, "label": "small"},
+                {"height": 1000, "width": 1024, "label": "large"},
+                {"height": 1000, "width": 550, "label": "small"}
             ],
-            "wait": 2000
             "removeSelectors": [".eww-a-bug"]
         }]
 
