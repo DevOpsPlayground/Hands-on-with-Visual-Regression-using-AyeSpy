@@ -28,7 +28,7 @@ The selectors that you will be interested in are all here
 
 
 
-If you need a hand have a look at [scenario 4 help](./scenario4help)
+If you need a hand have a look at [scenario 4 help](./scenario4help.md)
 
 
 
