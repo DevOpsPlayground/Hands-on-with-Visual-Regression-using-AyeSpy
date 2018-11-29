@@ -42,6 +42,10 @@ Lets get some images
 
     ayespy snap --config ayespy-config.json --browser firefox 
 
+
+To view the file you can see it from your browser
+<YOURANIMAL>.devopsplayground.com/latest/homepage-large.png
+
 lets update the baseline
 
     ayespy update-baseline --config ayespy-config.json --browser firefox
