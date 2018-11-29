@@ -79,7 +79,7 @@ Looks like we have some dynamic content that might not always display. On a real
 We should remove it by editing out config and making use of remove selectors
 
     vi ayespy-config.json
-
+    i 
 ----------------------
     "scenarios": [{
             "url": "http://cookingapp:3000",
@@ -89,6 +89,7 @@ We should remove it by editing out config and making use of remove selectors
         }]
 
 ------------
+    ESC
     :wq
 
 Lets rerun aye spy with our latest config. Please bare in mind, if your baseline image has the dynamic element we will need to update your baseline too!
