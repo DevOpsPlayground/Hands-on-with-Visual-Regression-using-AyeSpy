@@ -44,7 +44,8 @@ Lets get some images
 
 
 To view the file you can see it from your browser
-`<YOURANIMAL>.devopsplayground.com/latest/homepage-large.png
+
+`<YOURANIMAL>.devopsplayground.com/latest/homepage-large.png`
 
 lets update the baseline
 
