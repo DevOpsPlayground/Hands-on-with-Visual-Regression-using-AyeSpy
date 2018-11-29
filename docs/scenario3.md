@@ -40,6 +40,7 @@ lets create a new scenario with an onReady property and link it to our click scr
 Now lets change our click script to click on the recipe show me more button
 
     vi scripts/click.js
+    i
 --------------
     async function clickElement (browser, By) {
         await browser.findElement(By.css(".show-me-more")).click();
@@ -47,6 +48,7 @@ Now lets change our click script to click on the recipe show me more button
 
     module.exports = clickElement;
 ---------------
+    ESC
     :wq
 
 --------------
