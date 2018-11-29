@@ -11,6 +11,7 @@
 It's rare that our site will only be accessed in one breakpoint. Lets increase our coverage and our confidence in our application by covering multiple breakpoints.
 
     vi ayespy-config.json
+    i
 
 ----------------------
     "scenarios": [{
@@ -24,6 +25,7 @@ It's rare that our site will only be accessed in one breakpoint. Lets increase o
         }]
 
 ------------
+    ESC
     :wq
 
 
