@@ -69,17 +69,16 @@ in your browser navigate to
     <your-animal>.devopsplayground.com
 
 
-Looks like we have some dynamic content that might not always display. On a real site this could be something like an advert, video, carousel or anything else not static.
+Looks like we have an element that might not always display. On a real site this could be something like an advert, video, carousel or anything else not static.
 
 
 
 ![](/images/bug-report.png)
 
 
-We should remove it by editing out config and making use of remove selectors
+We should remove it by editing out config and making use of `removeSelectors`
 
     vi ayespy-config.json
-    i 
 ----------------------
     "scenarios": [{
             "url": "http://cookingapp:3000",
