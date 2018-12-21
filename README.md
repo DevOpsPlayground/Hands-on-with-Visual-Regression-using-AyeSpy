@@ -1,5 +1,7 @@
 # Devopsplayground 27 Visual Regression
 
+lol 
+
 [Home](README.md) | 
 [Scenario 1](docs/scenario1.md) |
 [Scenario 2](docs/scenario2.md) |
